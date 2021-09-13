@@ -15,7 +15,7 @@ Bu repo'da Patika.dev platformunda takip ettigim egitimlerde yer alan odev ve pr
 | Object Oriented Programming | %0 | 0/5 odev & proje |
 | Ileri Seviye GIT | **%100** | - |
 | Yazilim Dunyasinda Kariyer Basamaklari | %0 | - |
-| SQL | *%67* | 0/12 odev & proje |
+| SQL | *%71* | 2/12 odev & proje |
 | Java102 | %0 | 0/10 odev & proje |
 | Java ile Backend Web Development Projeleri | %0 | 0/5 odev & proje |
 | Freelance ve Remote Calisma, Is Surecleri | %0 | - |
