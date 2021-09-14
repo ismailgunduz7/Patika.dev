@@ -1,6 +1,6 @@
 Odevle ilgili aciklama asagida yer almaktadir.
 
-> > # Ödev 4
+> # Ödev 4
 > > Merhabalar,
 > > 
 > > Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
