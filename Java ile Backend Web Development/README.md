@@ -12,7 +12,7 @@ Bu dizinde ilgili patikanin derslerine ait odev ve projelere erisebilirsiniz.
 | Object Oriented Programming | %0 | 0/5 odev & proje |
 | Ileri Seviye GIT | **%100** | - |
 | Yazilim Dunyasinda Kariyer Basamaklari | %0 | - |
-| SQL | *%75* | 4/12 odev & proje |
+| SQL | *%83* | 8/12 odev & proje |
 | Java102 | %0 | 0/10 odev & proje |
 | Java ile Backend Web Development Projeleri | %0 | 0/5 odev & proje |
 | Freelance ve Remote Calisma, Is Surecleri | %0 | - |
@@ -108,12 +108,12 @@ Bu dizinde ilgili patikanin derslerine ait odev ve projelere erisebilirsiniz.
 	- [Odev 4](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%204)
 
 	-> **SQL Temelleri II**
-	- Odev 5
-	- Odev 6
-	- Odev 7
+	- [Odev 5](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%205)
+	- [Odev 6](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%206)
+	- [Odev 7]()
 
 	-> **Tablolarla Calismak**
-	- Odev 8
+	- [Odev 8](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%208)
 
 	-> **JOIN Yapilari**
 	- Odev 9
