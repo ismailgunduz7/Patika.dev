@@ -12,7 +12,7 @@ Bu dizinde ilgili patikanin derslerine ait odev ve projelere erisebilirsiniz.
 | Object Oriented Programming | %0 | 0/5 odev & proje |
 | Ileri Seviye GIT | **%100** | - |
 | Yazilim Dunyasinda Kariyer Basamaklari | %0 | - |
-| SQL | *%83* | 8/12 odev & proje |
+| SQL | *%97* | 12/13 odev & proje |
 | Java102 | %0 | 0/10 odev & proje |
 | Java ile Backend Web Development Projeleri | %0 | 0/5 odev & proje |
 | Freelance ve Remote Calisma, Is Surecleri | %0 | - |
@@ -102,26 +102,28 @@ Bu dizinde ilgili patikanin derslerine ait odev ve projelere erisebilirsiniz.
 
 - #### SQL
 	-> **SQL Temelleri**
-	- [Odev 1](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%201)
-	- [Odev 2](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%202)
-	- [Odev 3](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%203)
-	- [Odev 4](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%204)
+	- [Odev 1](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2001)
+	- [Odev 2](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2002)
+	- [Odev 3](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2003)
+	- [Odev 4](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2004)
 
 	-> **SQL Temelleri II**
-	- [Odev 5](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%205)
-	- [Odev 6](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%206)
-	- [Odev 7]()
+	- [Odev 5](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2005)
+	- [Odev 6](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2006)
+	- [Odev 7](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2007)
 
 	-> **Tablolarla Calismak**
-	- [Odev 8](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%208)
+	- [Odev 8](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2008)
 
 	-> **JOIN Yapilari**
-	- Odev 9
-	- Odev 10
-	- Odev 11
+	- [Odev 9](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2009)
+	- [Odev 10](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2010)
+	- [Odev 11](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2011)
 
 	-> **ALT Sorgular**
-	- Odev 12
+	- [Odev 12](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2012)
+
+	-> **Genel Tekrar**
 
 - #### Java102
 	- Macera Oyunu
