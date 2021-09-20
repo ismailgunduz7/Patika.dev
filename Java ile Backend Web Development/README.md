@@ -8,11 +8,11 @@ Bu dizinde ilgili patikanin derslerine ait odev ve projelere erisebilirsiniz.
 | Visual Studio Code Kullanimi | **%100** | - |
 | GIT | **%100** | 1/1 odev & proje |
 | Veri Yapilari ve Algoritmalar | **%100** | - |
-| Java101 | %0 | 0/50 odev & proje|
+| Java101 | *%15* | 0/50 odev & proje|
 | Object Oriented Programming | %0 | 0/5 odev & proje |
 | Ileri Seviye GIT | **%100** | - |
 | Yazilim Dunyasinda Kariyer Basamaklari | %0 | - |
-| SQL | *%97* | 12/13 odev & proje |
+| SQL | *%100* | 13/13 odev & proje |
 | Java102 | %0 | 0/10 odev & proje |
 | Java ile Backend Web Development Projeleri | %0 | 0/5 odev & proje |
 | Freelance ve Remote Calisma, Is Surecleri | %0 | - |
@@ -123,7 +123,7 @@ Bu dizinde ilgili patikanin derslerine ait odev ve projelere erisebilirsiniz.
 	-> **ALT Sorgular**
 	- [Odev 12](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2012)
 
-	-> **Genel Tekrar**
+	-> [**Genel Tekrar**]()
 
 - #### Java102
 	- Macera Oyunu
