@@ -123,7 +123,7 @@ Bu dizinde ilgili patikanin derslerine ait odev ve projelere erisebilirsiniz.
 	-> **ALT Sorgular**
 	- [Odev 12](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2012)
 
-	-> [**Genel Tekrar**]()
+	-> [**Genel Tekrar**](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/SQL/Odev%2013%20-%20Genel%20Tekrar)
 
 - #### Java102
 	- Macera Oyunu
