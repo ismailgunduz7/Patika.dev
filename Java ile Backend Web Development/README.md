@@ -8,7 +8,7 @@ Bu dizinde ilgili patikanin derslerine ait odev ve projelere erisebilirsiniz.
 | Visual Studio Code Kullanimi | **%100** | - |
 | GIT | **%100** | 1/1 odev & proje |
 | Veri Yapilari ve Algoritmalar | **%100** | - |
-| Java101 | *%15* | 0/50 odev & proje|
+| Java101 | *%18* | 3/50 odev & proje|
 | Object Oriented Programming | %0 | 0/5 odev & proje |
 | Ileri Seviye GIT | **%100** | - |
 | Yazilim Dunyasinda Kariyer Basamaklari | %0 | - |
@@ -27,9 +27,9 @@ Bu dizinde ilgili patikanin derslerine ait odev ve projelere erisebilirsiniz.
 
 - #### Java 101
 	-> **Temel Kavramlar ve Degiskenler**
-	- Not Ortalamasi Hesaplayan Program
-	- KDV Tutari Hesaplayan Program
-	- Dik Ucgende Hipotenus Bulan Program
+	- [Not Ortalamasi Hesaplayan Program](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/Java101/01_NotOrtalamasi)
+	- [KDV Tutari Hesaplayan Program](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/Java101/02_KDV)
+	- [Dik Ucgende Hipotenus Bulan Program](https://github.com/ismailgunduz7/Patika.dev/tree/main/Java%20ile%20Backend%20Web%20Development/Java101/03_Hipotenus)
 	- Taksimetre Hesaplayan Program
 	- Dairenin Alanini ve Cevresini Hesaplayan Program
 	- Vucut Kitle Indeksi Hesaplayan Program

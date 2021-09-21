@@ -11,7 +11,7 @@ Bu repo'da Patika.dev platformunda takip ettigim egitimlerde yer alan odev ve pr
 | Visual Studio Code Kullanimi | **%100** | - |
 | GIT | **%100** | 1/1 odev & proje |
 | Veri Yapilari ve Algoritmalar | **%100** | - |
-| Java101 | *%15* | 0/50 odev & proje|
+| Java101 | *%18* | 3/50 odev & proje|
 | Object Oriented Programming | %0 | 0/5 odev & proje |
 | Ileri Seviye GIT | **%100** | - |
 | Yazilim Dunyasinda Kariyer Basamaklari | %0 | - |
